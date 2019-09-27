@@ -1,7 +1,7 @@
 <?php
 
 /*
- LevBiblioteka Churches map
+ Interactive map for WordPress
  Author: Sergey Avdeev
  E-Mail: avdeevsv91@gmail.com
  URL: https://github.com/avdeevsv91/levbiblioteka_churches_map
