@@ -1,5 +1,12 @@
 <?php
 
+/*
+ LevBiblioteka Churches map
+ Author: Sergey Avdeev
+ E-Mail: avdeevsv91@gmail.com
+ URL: https://github.com/avdeevsv91/levbiblioteka_churches_map
+*/
+
 require_once( '../../../wp-load.php' );
 
 if($results = $wpdb->get_results($wpdb->prepare('SELECT * FROM `'.$wpdb->prefix.'im_maps` WHERE `map_id`=%d LIMIT 1;', $_GET['map']))) {
