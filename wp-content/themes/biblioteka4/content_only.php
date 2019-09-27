@@ -4,6 +4,13 @@
 Template Name: Только контент
 */
 
+/*
+ LevBiblioteka Churches map
+ Author: Sergey Avdeev
+ E-Mail: avdeevsv91@gmail.com
+ URL: https://github.com/avdeevsv91/levbiblioteka_churches_map
+*/
+
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" <?php language_attributes(); ?> style="margin-top: 0 !important;">
