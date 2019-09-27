@@ -3,8 +3,8 @@
   Plugin Name: Interactive Map
   Description: Interactive map for WordPress
   Version: 1.0
-  Author: SoulTaker
-  Author URI: http://tst48.wordpress.com
+  Author: Sergey Avdeev
+  Author URI: https://github.com/avdeevsv91/cpu_table_to_csv
 */
 
 // Install plugin hook
