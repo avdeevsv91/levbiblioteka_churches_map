@@ -8,7 +8,7 @@ Template Name: Только контент
  Interactive map for WordPress
  Author: Sergey Avdeev
  E-Mail: avdeevsv91@gmail.com
- URL: https://github.com/avdeevsv91/levbiblioteka_churches_map
+ URL: https://github.com/kasitoru/levbiblioteka_churches_map
 */
 
 ?>

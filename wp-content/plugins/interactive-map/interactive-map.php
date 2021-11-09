@@ -4,7 +4,7 @@
   Description: Interactive map for WordPress
   Version: 1.0
   Author: Sergey Avdeev
-  Author URI: https://github.com/avdeevsv91/levbiblioteka_churches_map
+  Author URI: https://github.com/kasitoru/levbiblioteka_churches_map
 */
 
 // Install plugin hook
